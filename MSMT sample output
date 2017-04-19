@@ -1,0 +1,49 @@
+
+size of the grid:10
+
+number of obstacle 9
+
+number of start and stop 1 1
+
+1th start and stop pair
+
+starting node (r,c):9 9
+
+ stopping node (r,c):5 5
+obstacles:1 2
+1 5
+2 9
+7 6
+8 1
+4 6
+3 5
+7 3
+9 4
+.......
+.......
+.......
+.......
+.......
+.......
+.......
+.......
+.......
+.......
+.......
+.......
+.......
+.......
+
+        .       .       .       .       .       .       .       .       .       .
+        .       .       .       .               *0      *0      *0      *0      *0
+        .               .       .       .       *0      .       .       .       .
+        .       .       .       .       .       *0      .       .       .
+        .       .       .       .       .       *0      .       .       .       .
+        .                       .       .       *0      .               .       .
+        .       .       .               .       *0      .       .               .
+        .       .       .       .       .       *0      .       .       .       .
+        .       .       .       .       .       *0      .       .       .       .
+        .       .       .       .       .       *0      .               .       .
+--------------------------------
+Process exited after 170.8 seconds with return value 10
+Press any key to continue . . .
