@@ -1,0 +1,37 @@
+
+ Stage 1
+
+D[1]=1
+D[2]=-1
+D[3]=-1
+D[4]=1
+D[5]=0
+D[6]=0
+gain : G[2][1]=-2  G[2][5]=-1  G[2][6]=-1  G[3][1]=0  G[3][5]=-1  G[3][6]=-1  G[4][1]=2  G[4][5]=-1
+ G[4][6]=-1
+swap nodes
+A1[1]  1,B1[1]  4
+
+ Stage 2
+
+gain : G[2][5]=8459328  G[2][6]=8459328  G[3][5]=8459328  G[3][6]=8459328
+swap nodes
+A1[1]  1,B1[1]  4
+A1[2]  5,B1[2]  2
+
+ Stage 3
+
+gain : G[3][6]=8459328
+swap nodes
+A1[1]  1,B1[1]  4
+A1[2]  5,B1[2]  2
+A1[3]  6,B1[3]  3
+
+ number of swap 2
+A[1] 5 ,B[1] 1
+A[2] 3 ,B[2] 2
+A[3] 4 ,B[3] 6
+
+--------------------------------
+Process exited after 0.01033 seconds with return value 0
+Press any key to continue . . .
